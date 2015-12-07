@@ -1,0 +1,319 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	overflow-x:hidden;
+}
+tr {
+	background: none;
+}
+/* header */
+
+
+#header {
+	
+	background-image: url(slike/header.jpg);
+	height: 800px;
+
+}
+#main-menu-links  {
+	position: relative;
+	top: -62px;
+	left: 600px;
+
+
+}
+
+#main-menu-links a {
+	border-radius: 0;
+
+}
+#site-name {
+	position: absolute;
+	top:8px;
+	left: 140px;
+	font-size: 16px;
+	font-family: serif;
+}
+a#logo img {
+	position: absolute;
+	
+	top: 0px;
+}
+
+.region-header {
+	position: absolute;
+	left: 25%;
+	top:380px;
+
+}
+
+#block-block-8 .content p {
+	font-size: 15px;
+	padding-left: 100px;
+
+}
+
+#block-block-8 .content h5 {
+	font-size: 40px;
+	padding-left: 70px;
+
+}
+#block-block-8 .content h3 span {
+	font-size: 35px;
+	color:#29CF8C ;
+	
+}
+
+#block-block-8 .content h3 {
+	font-size: 35px;
+
+}
+/* header */
+/* features */
+
+#main-wrapper .clearfix {
+	position: relative;
+	top:0px;
+	margin-top: -33px;
+
+}
+
+#content .section {
+	padding: 0;
+}
+.section h1 {
+
+	display: none;
+}
+#block-views-features-block {
+	height: 350px;
+}
+
+#block-views-features-block  h2 {
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 35px;
+	color: #29CF8C;
+	padding-top: 40px;
+
+}
+.region #block-views-features-block {
+	
+	width: 100%;
+	background-color: rgba(27, 209, 97, 0.2);
+}
+
+#block-views-features-block td{
+	height: 200px;
+
+
+}
+#main {
+	width: 100%;	
+	margin: 0;
+}
+
+}
+#secondary-menu ul{
+	display: none;
+}
+#block-views-features-block td {
+	border:none;
+}
+#block-views-features-block td  span {
+	text-transform: uppercase;
+	font-size: 20px;
+}
+#block-views-features-block .field-content p {
+	text-align: justify;
+	margin-left: 50px;
+	height: 200px;
+	font-size: 18px;
+}
+
+	
+/* feautures */
+/* works */
+
+#block-views-worksmeni-block h2 {
+
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 35px;
+	color: #29CF8C;
+}
+
+#block-views-worksmeni-block .field-content p {
+	text-align: center;
+	margin-left: 50px;
+	font-size: 18px;
+}
+
+#block-views-worksmeni-block .views-field {
+	text-align: center;
+}
+#first-time {
+	display: none;
+}
+#block-views-worksmeni-block .field-content {
+	font-size: 20px;
+	padding: 10px;
+
+}
+
+#block-views-worksmeni-block .field-content:hover {
+	text-decoration: none;
+
+}
+#block-views-worksmeni-block .field-content a {
+	margin: 20px;
+	color: black;
+
+	}
+#block-views-worksmeni-block .field-content a:hover {
+	margin: 10px;
+	text-decoration: none;
+	background-color: #29CF8C;
+	padding: 10px 10px 10px 10px;
+	color:white;
+	border-radius: 15%;
+}
+#block-views-worksmeni-block i {
+	padding-right: 50px;
+	font-size: 30px;
+	color: grey;
+}
+/* works */
+/*galerija*/
+#block-views-galerija-block  img {
+	height: auto;
+	width: 100%;
+
+}
+#block-views-galerija-block tr td {
+	border:0;
+	padding: 0;
+}
+
+#block-views-galerija-block tr {
+	line-height: 0px;
+}
+
+/*galerija*/
+
+/*meet our team*/
+
+#block-block-2 {
+	text-align: center;
+	margin-left: 50px;
+	font-size: 18px;
+}
+
+#block-block-2 h2 {
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 35px;
+	color: #29CF8C;
+}
+
+/*meet our team*/
+/*meet our team galerija*/
+#block-views-meet-our-team-block {
+	width: 70%;
+	margin:0 auto;
+}
+
+
+#block-views-meet-our-team-block .views-field-title {
+	text-align: center;
+	font-size: 20px;
+}
+#block-views-meet-our-team-block .field-content {
+
+	text-align: center;
+	font-size: 20px;
+
+}
+
+/*meet our team galerija*/
+/*fun fact */
+
+#block-block-6 h2 {
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 35px;
+	color: #29CF8C;
+}
+
+#block-views-fun-facts-block {
+	width: 100%;
+	height: 500px;
+	background-image: url(slike/funfact.jpg);
+	
+}
+#block-views-fun-facts-block .view-content  {
+	padding-top: 10%;
+	margin: auto;
+	width: 80%;
+
+}
+#block-views-fun-facts-block .row-1 {
+
+	
+}
+
+#block-views-fun-facts-block .fa  {
+	font-size: 100px;
+	color:white;
+	border-radius: 100%;
+	border: 1px solid white;
+	padding: 40px;
+
+
+}
+#block-views-fun-facts-block p {
+	text-align: center;
+}
+
+#block-views-fun-facts-block .views-field {
+	text-align: center;
+	font-size: 30px;
+	color:white;
+}
+
+#block-views-fun-facts-block .field-content a {
+	color:white;
+}
+
+#block-views-fun-facts-block td {
+	border: none;
+}
+/*fun fact */
+/*lets discus */
+
+#block-block-5 h2 {
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 35px;
+	color: #29CF8C;
+}
+#block-block-5 p {
+	text-align: center;
+	font-size: 18px;
+}
+
+
+/*lets discus */
+/*mapa*/
+#block-views-google-mapa-block .field-content iframe {
+	width: 100%;
+}
+
+/*mapa*/
